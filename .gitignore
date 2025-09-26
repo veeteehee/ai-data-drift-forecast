@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# Outputs and generated artifacts
+outputs/*
+!outputs/.gitkeep
+
+# VS Code / OS junk
+.vscode/
+.DS_Store
+Thumbs.db
